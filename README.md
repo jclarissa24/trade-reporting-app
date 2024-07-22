@@ -4,4 +4,7 @@ How to get started:
 3. Go to the folder: cd trade-reporting-app
 4. Run the application in terminal: dotnet run <productType> <broker> <date[yyyyMMDD]>
 
+For example: 
+dotnet run "FX Forward" "A" "20200408"
+
 
