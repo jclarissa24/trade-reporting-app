@@ -1,0 +1,15 @@
+/Users/jesstlynclarissa/Desktop/trade-reporting-app/trade-reporting-app/obj/Debug/net8.0/trade-reporting-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jesstlynclarissa/Desktop/trade-reporting-app/trade-reporting-app/obj/Debug/net8.0/trade-reporting-app.AssemblyInfoInputs.cache
+/Users/jesstlynclarissa/Desktop/trade-reporting-app/trade-reporting-app/obj/Debug/net8.0/trade-reporting-app.AssemblyInfo.cs
+/Users/jesstlynclarissa/Desktop/trade-reporting-app/trade-reporting-app/obj/Debug/net8.0/trade-reporting-app.csproj.CoreCompileInputs.cache
+/Users/jesstlynclarissa/Desktop/trade-reporting-app/trade-reporting-app/bin/Debug/net8.0/trade-reporting-app
+/Users/jesstlynclarissa/Desktop/trade-reporting-app/trade-reporting-app/bin/Debug/net8.0/trade-reporting-app.deps.json
+/Users/jesstlynclarissa/Desktop/trade-reporting-app/trade-reporting-app/bin/Debug/net8.0/trade-reporting-app.runtimeconfig.json
+/Users/jesstlynclarissa/Desktop/trade-reporting-app/trade-reporting-app/bin/Debug/net8.0/trade-reporting-app.dll
+/Users/jesstlynclarissa/Desktop/trade-reporting-app/trade-reporting-app/bin/Debug/net8.0/trade-reporting-app.pdb
+/Users/jesstlynclarissa/Desktop/trade-reporting-app/trade-reporting-app/obj/Debug/net8.0/trade-reporting-app.dll
+/Users/jesstlynclarissa/Desktop/trade-reporting-app/trade-reporting-app/obj/Debug/net8.0/refint/trade-reporting-app.dll
+/Users/jesstlynclarissa/Desktop/trade-reporting-app/trade-reporting-app/obj/Debug/net8.0/trade-reporting-app.pdb
+/Users/jesstlynclarissa/Desktop/trade-reporting-app/trade-reporting-app/obj/Debug/net8.0/trade-reporting-app.genruntimeconfig.cache
+/Users/jesstlynclarissa/Desktop/trade-reporting-app/trade-reporting-app/obj/Debug/net8.0/ref/trade-reporting-app.dll
+/Users/jesstlynclarissa/Desktop/trade-reporting-app/trade-reporting-app/obj/Debug/net8.0/trade-reporting-app.sourcelink.json
